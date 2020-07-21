@@ -1,5 +1,10 @@
+data
+models
 google_face_images_dataset
-
+*.gz
+*.pth
+*.pkl
+*.zip
 
 # Created by https://www.toptal.com/developers/gitignore/api/python,pycharm+all,jupyternotebooks,macos
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,pycharm+all,jupyternotebooks,macos
